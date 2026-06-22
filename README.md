@@ -39,4 +39,4 @@ The following files have been finalized and committed to this repository for eva
    - The formal executive summary document formatted for management review, detailing data skewness, outlier rationalization, and detailed KPI definitions.
 
 ---
-*Submitted as part of the DecodeLabs Industrial Training Portfolio - June 2026.*
+*Submitted as part of the DecodeLabs Industrial Training - June 2026.*
